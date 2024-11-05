@@ -4,7 +4,8 @@ https://dribbble.com/shots/23888925-Task-Management-Mobile-App
 
 ![GambarApp](assets/demo/MobileApp.png)
 
-[DemoApp]([assets/demo/Demo.mp4](https://github.com/user-attachments/assets/7c64540f-1662-4d7b-a22a-71ba60ba72af))
+[DemoApp](https://github.com/user-attachments/assets/7c64540f-1662-4d7b-a22a-71ba60ba72af)
+
 
 A new Flutter project.
 
